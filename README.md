@@ -10,4 +10,4 @@ APIs Used:
   
   https://dictionaryapi.com/products/api-collegiate-dictionary
   
-This projects uses Random Word API to generate a random word and uses Merriam-Webster Dictionary API to get the definiton of the randomly generated word.
+This projects uses Random Word API to generate a random word and uses Merriam-Webster Dictionary API to get the definition of the randomly generated word.
